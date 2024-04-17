@@ -17,7 +17,7 @@ username_input.send_keys("66148073320")
 password_input.send_keys("45230681")
 password_input.send_keys(Keys.ENTER)
 
-driver.get("https://online.spor.istanbul/uyespor")
+driver.get("https://online.spor.istanbul/satiskiralik")
 
 
 seans_sec_button = driver.find_element("id","pageContent_rptListe_lbtnSeansSecim_0")
